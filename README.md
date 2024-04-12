@@ -3,11 +3,17 @@ Welcome to the Travel Planner project! This web application helps users plan the
 
 
 Trip Planning: Users can create and manage their travel itineraries, including specifying the destination, departure date, and activities.
+
 Weather Forecast: Get real-time weather forecasts for the chosen destination to better plan your activities.
+
 Points of Interest: Explore nearby attractions, restaurants, and landmarks at the destination.
+
 User Authentication: Secure user authentication system to protect user data and trip information.
+
 API Integration: Integration with Google Places API for points of interest and OpenWeather API for weather forecasts.
-Setup
+
+## Setup
+
 Clone the repository to your local machine:
 
 

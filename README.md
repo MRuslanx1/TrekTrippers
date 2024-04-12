@@ -43,6 +43,7 @@ python manage.py runserver 0.0.0.0:80
 ```
 Access the application in your web browser at http://localhost:80.
 
+
 Dependencies
 Django: Web framework for building the application.
 Django REST Framework: Toolkit for building Web APIs.
@@ -55,3 +56,13 @@ Create a new branch (git checkout -b feature/improvement).
 Make your changes and commit them (git commit -am 'Add new feature').
 Push to the branch (git push origin feature/improvement).
 Create a new Pull Request.
+
+
+ADMIN PANEL CREDIENTIALS:
+
+http://134.122.93.178/admin/ : admin
+
+
+
+
+

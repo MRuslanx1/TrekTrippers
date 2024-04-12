@@ -41,6 +41,12 @@ Run the Django development server:
 ```bash
 python manage.py runserver 0.0.0.0:80 
 ```
+In Cloud
+
+```
+nohup python manage.py runserver 0.0.0.0:80 &
+```
+
 Access the application in your web browser at http://localhost:80.
 
 
@@ -56,6 +62,8 @@ Create a new branch (git checkout -b feature/improvement).
 Make your changes and commit them (git commit -am 'Add new feature').
 Push to the branch (git push origin feature/improvement).
 Create a new Pull Request.
+
+
 
 ```
 ADMIN PANEL CREDIENTIALS:
